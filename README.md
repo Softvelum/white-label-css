@@ -8,4 +8,5 @@ http://blog.wmspanel.com/2013/09/custom-css-for-white-label-wmspanel.html
 http://blog.wmspanel.com/2013/08/ssl-white-label-panel-branding.html
 
 This repo provides examples of branded CSS files for WMSPanel:
-- wmspanel-plain.css - hides top menu and footer.
+- wmspanel-plain.css - This CSS hides top menu and footer.
+- saglayici.css - Custom CSS of SAĞLAYICI company branded panel (http://www.saglayici.com/)
