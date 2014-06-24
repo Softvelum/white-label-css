@@ -1,0 +1,8 @@
+/* This CSS hides top menu and footer of WMSPanel */
+
+#header, #subheader, #footer {
+  display: none;
+}
+.wrapper {
+  width: 100%;
+}
