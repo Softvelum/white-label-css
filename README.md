@@ -8,4 +8,6 @@ You may find details of WMSPanel branding in the following articles:
 - http://blog.wmspanel.com/2013/08/ssl-white-label-panel-branding.html
 
 This repo provides examples of branded CSS files for WMSPanel:
-- wmspanel-plain.css - hides top menu and footer.
+- wmspanel-plain.css - hides top menu and footer, seeread this FAQ for details: https://wmspanel.com/forum/question/FAQ-How-to-hide-all-menus-in-WMSPanel-web-UI
+
+
