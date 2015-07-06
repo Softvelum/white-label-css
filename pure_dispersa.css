@@ -1,0 +1,36 @@
+.wrapper {
+  width: 100%;
+}
+#header, #subheader, .block_head, #footer, .block:nth-child(6), .button.fancy, label {
+  display: none;
+}
+.block_content {
+  padding: 0;
+}
+#streams_table {
+  display: block;
+}
+#streams_table thead {
+  display: none;
+}
+#streams_table tbody {
+  display: block;
+}
+#streams_table tbody tr {
+  display: block;
+  float: left;
+}
+#streams_table tbody tr td:nth-child(1) {
+  display: block;
+  width: 10px;
+  float: left;
+  height: 35px !important;
+}
+#streams_table tbody tr td:nth-child(2) {
+  display: block;
+  width: 100px;
+  padding-left: 20px;
+}
+#streams_table tbody tr td {
+  display: none;
+}
