@@ -11,5 +11,5 @@ This page gives overview of all available reporting customization and co-brandin
 
 This repo provides examples of branded CSS files for WMSPanel:
 - wmspanel-plain.css - This CSS hides top menu and footer, read this FAQ for details: https://wmspanel.com/forum/question/FAQ-How-to-hide-all-menus-in-WMSPanel-web-UI
-- pure_dispersa.css - It converts Dispersa monitpring dashbaord into clear console showing each stream status in color only. No menus, no tables, just streams' aliases and their status codes.
+- pure_dispersa.css - It converts Dispersa monitoring dashbaord into clear console showing streamd with offline status only. No menus, no tables, just streams' aliases and status color.
 - saglayici.css - Custom CSS of SAĞLAYICI company branded panel (http://www.saglayici.com/)
